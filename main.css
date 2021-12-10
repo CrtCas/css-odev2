@@ -1,0 +1,25 @@
+body{
+    text-align: center;
+}
+#image{
+    display: block;
+    margin: 0 auto;
+}
+
+table{
+    text-align: center;
+    width: 90%;
+    margin: 0 auto;
+    border: 0;
+    
+}
+td{
+    background-color: aquamarine;
+}
+
+.search-bar{
+    text-align: center; 
+    margin: 0 auto;
+    background-color: ghostwhite;
+    width: 90%;
+}
